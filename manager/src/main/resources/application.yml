@@ -1,0 +1,9 @@
+http:
+  worker:
+    baseUrl: http://worker:8080
+
+app:
+  workerCount: 1
+  alphabet: abcdefghijklmnopqrstuvwxyz0123456789
+  workerTimeoutSeconds: 10
+

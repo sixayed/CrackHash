@@ -1,0 +1,3 @@
+http:
+  manager:
+    baseUrl: http://manager:8080
